@@ -13,5 +13,5 @@
 
 ## Project Images:
 
-![image](/Images/voyageVR-HRT-1.jpeg)
-![image](/Images/voyageVR-HRT-2.jpeg)
+![image](/Images/voyageVR-HRT-1.png)
+![image](/Images/voyageVR-HRT-2.png)
