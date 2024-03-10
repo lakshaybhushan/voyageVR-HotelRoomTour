@@ -8,7 +8,7 @@
 
 </p>
 
-Note: The repository is associated with [voyageVR](https://github.com/lakshaybhushan/voyageVR), utilizing the Cesium Ion API for immersive world exploration.
+**Note:** The repository is associated with [voyageVR](https://github.com/lakshaybhushan/voyageVR), utilizing the Cesium Ion API for immersive world exploration.
 
 
 ## Project Images:
