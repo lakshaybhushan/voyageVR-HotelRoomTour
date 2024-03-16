@@ -4,7 +4,7 @@
 
 <img src ="https://img.shields.io/badge/c%23-4D94FF.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
 <img src ="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-<img src ="https://img.shields.io/badge/Oculus-1C1E20.svg?style=for-the-badge&logo=Oculus&logoColor=white">
+<img src ="https://img.shields.io/badge/Meta-0467DF.svg?style=for-the-badge&logo=Meta&logoColor=white">
 
 </p>
 
